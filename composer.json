@@ -1,0 +1,14 @@
+{
+    "name": "marek/magento-api",
+    "authors": [
+        {
+            "name": "Bc. Marek Fajfr",
+            "email": "fajfrmar@fit.cvut.cz"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/oauth-subscriber": "^0.3.0",
+        "larapack/dd": "^1.1"
+    }
+}
