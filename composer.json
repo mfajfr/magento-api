@@ -6,6 +6,11 @@
             "email": "fajfrmar@fit.cvut.cz"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "MagentoAPI\\": "src/"
+        }
+    },
     "require": {
         "guzzlehttp/guzzle": "^6.3",
         "guzzlehttp/oauth-subscriber": "^0.3.0",
